@@ -1,6 +1,7 @@
 name = "Enhanced Block Entities Reforged (Unofficial)"
 filename = "EnhancedBlockEntities-Reforged-1.19.2-0.7.3.jar"
 side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"
