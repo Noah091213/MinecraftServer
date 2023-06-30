@@ -1,6 +1,7 @@
 name = "Not Enough Animations"
 filename = "notenoughanimations-forge-1.6.2-mc1.19.2.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
