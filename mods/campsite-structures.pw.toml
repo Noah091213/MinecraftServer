@@ -1,0 +1,13 @@
+name = "Campsite Structures"
+filename = "campsite_structures-1.19.2-FORGE-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f34639eaf9f4c66cd33bd16478d84659fab2bd10"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4215747
+project-id = 705070

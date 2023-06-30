@@ -1,0 +1,13 @@
+name = "Egg Generator"
+filename = "EggGenerator_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbe44f3085e4b7cfb9a3a60cb481dc661327bcbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4135106
+project-id = 653204
