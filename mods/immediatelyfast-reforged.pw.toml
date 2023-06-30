@@ -1,7 +1,6 @@
 name = "ImmediatelyFast Reforged (Unofficial)"
 filename = "ImmediatelyFastReforged-1.19.2-1.1.12.jar"
-side = "both"
-pin = true
+side = "client"
 
 [download]
 hash-format = "sha1"

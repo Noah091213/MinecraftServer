@@ -1,7 +1,6 @@
 name = "CullLessLeaves Reforged (Unofficial)"
 filename = "CullLessLeaves-Reforged-1.0.5.jar"
-side = "both"
-pin = true
+side = "client"
 
 [download]
 hash-format = "sha1"

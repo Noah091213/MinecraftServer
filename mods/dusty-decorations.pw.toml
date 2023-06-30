@@ -1,7 +1,6 @@
 name = "Dusty Decorations"
 filename = "dustydecorations-1.0-1.19.2.jar"
 side = "both"
-pin = true
 
 [download]
 hash-format = "sha1"

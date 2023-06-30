@@ -1,7 +1,6 @@
 name = "Galosphere Delight (A Farmer's Delight Add-on)"
 filename = "galosphere_delight_1.1.0_forge_1.19.2.jar"
 side = "both"
-pin = true
 
 [download]
 hash-format = "sha1"

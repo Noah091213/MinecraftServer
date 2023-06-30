@@ -1,4 +1,4 @@
-name = "COOP S5"
+name = "COOPS 5"
 author = "Pablo"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3259ed679aa399579d7d862d90c7ba27789dba58396867d29c98c16cca88ac02"
+hash = "e6878212e7e2dec9371bc8d43b161f2a70bfbbe494146b7b5a0f38d310a04a7e"
 
 [versions]
 forge = "43.2.14"

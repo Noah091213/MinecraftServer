@@ -1,6 +1,6 @@
 name = "DrawerFPS"
 filename = "drawerfps-1.19.2-1.8.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

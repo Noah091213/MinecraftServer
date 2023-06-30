@@ -1,6 +1,6 @@
 name = "Better Runtime Resource Pack (BRRP)"
 filename = "brrp-forge-0.9.0-1.19.2.jar"
-side = "both"
+side = "client"
 pin = true
 
 [download]

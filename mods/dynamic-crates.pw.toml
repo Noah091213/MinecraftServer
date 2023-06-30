@@ -1,0 +1,13 @@
+name = "Dynamic Crates"
+filename = "Dynamic Crates-forge-1.19.2-2.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b73798ad6b1eb2b886cd3f2fe27f3c01933aeba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3996858
+project-id = 670316
