@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "This PC - Shortcut.lnk"
-hash = "c19f078217bd19850b5a879410e4594b95cded439337a780ce2a8226c0c4e435"
-
-[[files]]
 file = "config/Hexerei-client.toml"
 hash = "70d41a3e3d638cfd61783d99f01d38e4867b01495c005bfdb8255115aa75feb8"
 
