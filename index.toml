@@ -2959,11 +2959,6 @@ hash = "6c6de011a881fa4065d6f40922da0206fc2393060e186bb79ef8467f67f5cdd3"
 metafile = true
 
 [[files]]
-file = "mods/welcome-to-meadow.pw.toml"
-hash = "3b834a9ee1f05c2838512ebcb0b3d71bf0d524af4ad72abd8bffb46f31646e8b"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "f78b4cea99e90549cd9a38d1a65c6b1f248f60e4a8fa49850d90b79b32e9699c"
 metafile = true
