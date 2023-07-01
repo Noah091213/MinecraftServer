@@ -1780,7 +1780,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "29daa9b0a1fd372949831de11420548a6318fefbabac706008fdee44a459d1cb"
+hash = "8058f0b1c6a439deb996e2dd8d15640a97b643021c99c4b65dc68f47bc46e79e"
 metafile = true
 
 [[files]]
@@ -1815,7 +1815,7 @@ metafile = true
 
 [[files]]
 file = "mods/beachparty.pw.toml"
-hash = "b84a030c7700913b3519c8f5d1f11e95a46e7ec921ddd7958c4b37abe83116bd"
+hash = "cde7c8dee2a4e127983a96bfa926e33e9393eebe094106a019d305f54e8eda4d"
 metafile = true
 
 [[files]]
@@ -1886,6 +1886,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "9a0923ead8905649bc1260301508dc349ec7dd134fd8278a67e144d1f3ed68df"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "c324a6791dbb090123f20d2d870e2beaa0d15df69ac3596b19422f3bedff7869"
 metafile = true
 
 [[files]]
@@ -2081,6 +2086,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
+metafile = true
+
+[[files]]
+file = "mods/deep-resonance.pw.toml"
+hash = "c7c196846f08b44ea2d7a99176750bd1663c119927d77e6a224404fe4eee8fdd"
 metafile = true
 
 [[files]]
@@ -2525,7 +2535,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "30a98c2d143d15fd3916892e63bb0269f4b1124d09220315959f62e3afbf7d0d"
+hash = "2d2457ae5c4949c29a2ff048429d61da665fff1262f5a2165715130e2412497a"
 metafile = true
 
 [[files]]
@@ -2740,7 +2750,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "81e58b7e5e9ebd792107e74590a779f935e150b687aa0b1184e441ec6ba1a44f"
+hash = "a66fe8f0df743c4a439a2035381163c52f5e6e0aa12e53dac6df703618bbeec5"
 metafile = true
 
 [[files]]
@@ -2815,7 +2825,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "54e8cddcc8fdadda043465955fd392d1d9ba042a1e0e23f1041530137298b6e9"
+hash = "e1eea188e2279b2a65aedc7217d30c1829817eb029783c130a8ed0a3fba06ae3"
 metafile = true
 
 [[files]]
@@ -2850,17 +2860,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "9350b6d7d8ab73ce56ad757c577ada54348c9ce1933c1f282da9e76a78b9ec16"
+hash = "452ab15c598a5c9a58751f53f223feea2b775f25adad30a1836d9a1b4c51edd8"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "55a4c89651ca5abb88ea33623c255fb0370a4c71f893a5f1d7469d0d372708b6"
+hash = "ca1c3a8f0818811fa8a49cd9d021128a5edb501194f35c0b78f4079cc655d4da"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "7caab999ba0fa232bc8a605e1d45f48c9a6f5a5a4579949b400c2f203e264f4e"
+hash = "4f22785bfc13c5c3825a70474e2218ac05a2534d1627b4d607892570bf8acad0"
 metafile = true
 
 [[files]]
@@ -2900,12 +2910,12 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "df03692ea55f854de0cfcb021bd960643a6a8f09c03c30456eac10232384a41a"
+hash = "354bbfa82fb4018eb6d6d4b9c5a4846161dcd073e85010c936d3d96e454ece5c"
 metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "653e0d33a5ff0b1949e19ad36b271f9a81e628b8e4783c42e27a2bcbee6f1b96"
+hash = "47923fc87db1855f6740beb91336b907e7c22f75eaa5f1a199f81bdba165ac2d"
 metafile = true
 
 [[files]]
