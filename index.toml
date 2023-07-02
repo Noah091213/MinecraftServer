@@ -1780,7 +1780,12 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "8058f0b1c6a439deb996e2dd8d15640a97b643021c99c4b65dc68f47bc46e79e"
+hash = "772db5343617c0348a8aa97de94325521c53723cb08ed19400af3605be6330d0"
+metafile = true
+
+[[files]]
+file = "mods/ars-omega.pw.toml"
+hash = "d46410e21d4257d6d4f63843ff43c64a96b6a956108c713c2394aebe6b437c3f"
 metafile = true
 
 [[files]]
@@ -1856,6 +1861,11 @@ metafile = true
 [[files]]
 file = "mods/broglis-plants.pw.toml"
 hash = "b40038ccd7ea77ff38674255d81039379a2d5594540e07dfd746af71b02c54d5"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
 metafile = true
 
 [[files]]
@@ -2084,6 +2094,11 @@ hash = "7cb279446ed84b06a98f74399675f0396b03ca44d94216f807e4bfe842068727"
 metafile = true
 
 [[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "c64bdff1093c4040970ed3ceefc1c33f866e962d0aac38d2da499b6e59025f62"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
 metafile = true
@@ -2219,6 +2234,11 @@ hash = "183a22e666b7a9dd5f4d64b0c62f27eb6a84a045d5411681ff101279f2291826"
 metafile = true
 
 [[files]]
+file = "mods/epic-knights-armor-and-weapons.pw.toml"
+hash = "f9ad5c3acbb324b08047b4c284d6ba31d95ef879b9477d5c460206aedefefd18"
+metafile = true
+
+[[files]]
 file = "mods/extrastorage.pw.toml"
 hash = "97513b37a73b67a83f0f6fe6a6ff7330dceadca7f87405e262e9476e6b3b39ab"
 metafile = true
@@ -2275,7 +2295,7 @@ metafile = true
 
 [[files]]
 file = "mods/flux-networks.pw.toml"
-hash = "6ae071efb86f28ba1d3d77579192f6634938ac0f81ad3f137063dd9daabfdae7"
+hash = "d3e5d8756716534280c0bd4c2caddab5691dc0aeb16a23b76634b108dfc7e291"
 metafile = true
 
 [[files]]
@@ -2570,7 +2590,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "15bab7aef2da1c1bf579bd728a270fca71cf9ba457fa4ac1065ffd2c4c692bf8"
+hash = "a568b1c6f6085bcbb72d11f6105adf3ce37174949c712385de093b45c18e3983"
 metafile = true
 
 [[files]]
@@ -2615,7 +2635,7 @@ metafile = true
 
 [[files]]
 file = "mods/memory-settings.pw.toml"
-hash = "7210d74a326d4757768aebc409d0f9ecd42d7fa2cbba21527a4165763506e364"
+hash = "4fe70fa7058bf9f1b8d78e8dec6adf14f2e730a3b02079e342476f7b33d91105"
 metafile = true
 
 [[files]]
@@ -2715,7 +2735,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-plus-plus.pw.toml"
-hash = "fecd546386f451e89e80cb5c708e2aaaa182caaa3b655ea7cc7059c720f403d5"
+hash = "47e89f4eecb0839b05e1c46e0d1679ef7b4d95b2bbd3a2a365ee45b2611ca410"
 metafile = true
 
 [[files]]
@@ -2726,6 +2746,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "cfc0cc8269bfc42e23a28f4584d0e5b1b5827848f0519960a799c8f14f63ded0"
+metafile = true
+
+[[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "13c88dde7a2157bbe8e803fc9a46a765c9c7392ff724cbe3855ae84f1f77e91b"
 metafile = true
 
 [[files]]
@@ -2819,13 +2844,18 @@ hash = "c5ad892ccacff7bec1c317ecad14dfb03a4ff230f501e66f18ef472707855894"
 metafile = true
 
 [[files]]
+file = "mods/runelic.pw.toml"
+hash = "9f392f9749a83036acb8b59b0023f385f495b327ee576a291137aade517982e7"
+metafile = true
+
+[[files]]
 file = "mods/savage-and-ravage.pw.toml"
 hash = "4184c1ab488b34f8b77837645f513e2846666a84cf82deeda7719c70a4f8a24e"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e1eea188e2279b2a65aedc7217d30c1829817eb029783c130a8ed0a3fba06ae3"
+hash = "ac044748ca461791a080a4f1259451bc4ab258851fab9cc282e7a7c23ec86bcf"
 metafile = true
 
 [[files]]
@@ -2865,12 +2895,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "ca1c3a8f0818811fa8a49cd9d021128a5edb501194f35c0b78f4079cc655d4da"
+hash = "b9f1b6e9a34482cd84a4b359849ecdfdacb7de2c2a030ee1060e92ab476bd1a8"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "4f22785bfc13c5c3825a70474e2218ac05a2534d1627b4d607892570bf8acad0"
+hash = "5244e9fb9f8dfd65ad46c592d1c19b5c5f2d7500a85048cc12e264d59d45e4ef"
 metafile = true
 
 [[files]]
