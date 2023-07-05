@@ -2409,6 +2409,11 @@ hash = "9047be63d4018ba8c0613270e97a5949697f42077b03dd4c40ad9c4b8393419b"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
+metafile = true
+
+[[files]]
 file = "mods/integrated-crafting.pw.toml"
 hash = "7a0c0517a15b32fbbdb07b73f4aff212847986b7c1a34c84e0ca0098b160958f"
 metafile = true
@@ -2434,11 +2439,6 @@ hash = "d37e48d9fc0474243576ab7b57a1e1334faef979fbc8f2d7c03677172e9c58d8"
 metafile = true
 
 [[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-hash = "f8e93d8a4ee0f2ebcff9138d72e6038bb2b176ceb784b123bcca466a0a4ca4fd"
-metafile = true
-
-[[files]]
 file = "mods/it-takes-a-pillage.pw.toml"
 hash = "fdb8c310c88b0b525682fd2442e45f3cfc4bf007bab0900b185e7a3074cc30ef"
 metafile = true
@@ -2461,6 +2461,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-calculation.pw.toml"
 hash = "f578141cbb619b9747ad0755dddeeefd8ebb1cb495e94782ffba3d7710af0615"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-immersive-multiblocks.pw.toml"
+hash = "56904744466d783e1f30b2c48532f16928e01df110e1c801397d544840abba73"
 metafile = true
 
 [[files]]
@@ -2756,6 +2761,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "a83ce53114a1605e5ec66a7a1b1dad0eca0dcf652fd83f588bf2e4ce0d30afb5"
+metafile = true
+
+[[files]]
+file = "mods/origins-accessibilities.pw.toml"
+hash = "34a1be4bc9177e76a300fa3c1b1379b0236a5daaf1120a673a6f8a89c8d83d0f"
 metafile = true
 
 [[files]]
