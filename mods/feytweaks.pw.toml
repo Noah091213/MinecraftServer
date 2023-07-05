@@ -1,0 +1,13 @@
+name = "FeyTweaks"
+filename = "feytweaks-1.19.2-1.2.5-all.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wa72oW2W/versions/V6cSjDNf/feytweaks-1.19.2-1.2.5-all.jar"
+hash-format = "sha1"
+hash = "8b13fa31e0b3943ad0e36697f5152fc91e25bb43"
+
+[update]
+[update.modrinth]
+mod-id = "Wa72oW2W"
+version = "V6cSjDNf"
