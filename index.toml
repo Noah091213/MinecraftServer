@@ -1829,11 +1829,6 @@ hash = "cde7c8dee2a4e127983a96bfa926e33e9393eebe094106a019d305f54e8eda4d"
 metafile = true
 
 [[files]]
-file = "mods/better-biome-blend.pw.toml"
-hash = "d2c114dc8dd79d00fe215a3cf0e844638fba8a28ad711eaa1106cb68e02a4ea5"
-metafile = true
-
-[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
 metafile = true
@@ -2161,11 +2156,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-crates.pw.toml"
 hash = "fb0fcf1c42c191473fa7bff64c541928dcb9589fe3a9802e8a2e3ab909908885"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps-reforged.pw.toml"
-hash = "3318c4c9c700445c47b92c333078e068b0b394700579c7a8151fd4176fa3277e"
 metafile = true
 
 [[files]]
