@@ -2309,11 +2309,6 @@ hash = "d3e5d8756716534280c0bd4c2caddab5691dc0aeb16a23b76634b108dfc7e291"
 metafile = true
 
 [[files]]
-file = "mods/flywheel.pw.toml"
-hash = "3e9b9722da123b1d4120f0d9aba8de9968aba4aad6e9c7564423672171e00d9e"
-metafile = true
-
-[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "410ae69c23b2e6414acbc37dd7c6b7a538aee71791897e3191940b1249ad6a4c"
 metafile = true
