@@ -1749,6 +1749,11 @@ hash = "03ebaa7cf5a99bed0b2c3f878b798b58ab5d193cc7b95423594b38032b776ecf"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "48a1be62231995c1870fd839f9262470235e1c52f8ba07b36daceee50e8580d4"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
@@ -1981,6 +1986,11 @@ metafile = true
 [[files]]
 file = "mods/convenient-curios-container.pw.toml"
 hash = "fe48df22938edaa708abb45d6eab1e7841cb8a88ef9467338bdf2b391db51d8c"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "04fb977e669b2dc227691d90414c450ba397bcc7c79341ad1ba20841cdab167e"
 metafile = true
 
 [[files]]
@@ -2244,6 +2254,11 @@ hash = "d3ebb94ffb212f0ae70b0ae951a09aab75c9fc03e7b0bf9d28a8713b44de6f6b"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "4a1440dbaf4e209501152ab6cd969d7b565617f79a0ef069e2d3ebcbbe3de57d"
+metafile = true
+
+[[files]]
 file = "mods/extrastorage.pw.toml"
 hash = "97513b37a73b67a83f0f6fe6a6ff7330dceadca7f87405e262e9476e6b3b39ab"
 metafile = true
@@ -2251,6 +2266,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8189165b2426b999ed9621cb79aacab2635f3220fac15716a6f43084a0eb0986"
+metafile = true
+
+[[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "8dd47fa80a5744f4e304b3dcea35fe88b0979f6cf9a7e9ce20e5da54a0968d39"
 metafile = true
 
 [[files]]
@@ -2296,6 +2316,11 @@ metafile = true
 [[files]]
 file = "mods/feytweaks.pw.toml"
 hash = "3051a8dedf18a90e8a973afc35db1dce4ce5a3006e793ec5c641578d31ffbf8c"
+metafile = true
+
+[[files]]
+file = "mods/finally-farmable-dyes.pw.toml"
+hash = "dd098aa53a277aaf2ed084cb9b518eafb3e4ffb6b8cabb2d9c07c91687d93c05"
 metafile = true
 
 [[files]]
@@ -2440,7 +2465,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "b4622e8d8ede45aa76c6d4595087219effbe83c87ecfa6aa016f70c145d1aa64"
+hash = "f5e3281c535e0496e47c599773da24ad7513904701dff2114f584198588c47a3"
 metafile = true
 
 [[files]]
@@ -2649,6 +2674,11 @@ hash = "e94101805186b1275460ea3ac4413c18331391b73defb522a8e7ed6974821657"
 metafile = true
 
 [[files]]
+file = "mods/medieval-siege-machines.pw.toml"
+hash = "d947a7851d206f5f3900ee87126be1c6b7528a9499ad5a987651d0358ae26dc9"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "716092a7fedb190493bb8b10e5009511f3e8e3e000835aead242f83606b587c0"
 metafile = true
@@ -2821,6 +2851,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
+metafile = true
+
+[[files]]
+file = "mods/prelaws-blocky-siege.pw.toml"
+hash = "64f062a809c60090709f6f298ed0867e1dd233a1491e95a641a2c33d788ae8d7"
 metafile = true
 
 [[files]]

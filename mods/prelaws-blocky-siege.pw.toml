@@ -1,0 +1,13 @@
+name = "Lucky's Blocky Siege"
+filename = "BlockySiege-5.1.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0efb989f88a759553a6f3801360a79b6053e3502"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4635688
+project-id = 619202
