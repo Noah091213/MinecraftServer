@@ -1,13 +1,13 @@
 name = "Memory Settings[Forge/Fabric]"
-filename = "memorysettings-1.19.2-4.7.jar"
+filename = "memorysettings-1.19.2-5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a9ffba8e9bffdd3e5dcd4144edc3038577fa6fba"
+hash = "ea84f6f769dc49f1279079fe9df1d04e187d8fbb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4620952
+file-id = 4632927
 project-id = 526901
