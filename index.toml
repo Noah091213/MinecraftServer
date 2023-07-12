@@ -2774,11 +2774,6 @@ hash = "34a1be4bc9177e76a300fa3c1b1379b0236a5daaf1120a673a6f8a89c8d83d0f"
 metafile = true
 
 [[files]]
-file = "mods/origins-classes-forge.pw.toml"
-hash = "b83da1d4b1cfd098abd7cb0bbab6b146dee448d5a2b725671b9593c2d6244638"
-metafile = true
-
-[[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "870e5b0ead71b2dd4f756187f14588c34272170e64e91d76d753c0730fccb660"
 metafile = true
