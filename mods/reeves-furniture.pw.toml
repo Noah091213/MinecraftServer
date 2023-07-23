@@ -1,0 +1,13 @@
+name = "Reeves's Furniture [GARDEN UPDATE 🏡]"
+filename = "reeves-furniture-1.19.2-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5affe96bcd8beccfc016ab63e0d4cea0bbb6503b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4653894
+project-id = 399025

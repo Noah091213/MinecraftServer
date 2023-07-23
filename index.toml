@@ -1889,6 +1889,11 @@ hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
 metafile = true
 
 [[files]]
+file = "mods/cagerium.pw.toml"
+hash = "63c9ffaef743908dc24b245dbf752a3be9528addb6316556da4c556039022984"
+metafile = true
+
+[[files]]
 file = "mods/callable-horses.pw.toml"
 hash = "914c652347a5a4142e0dfdf801926a7bc0bd77be6edb2a032cf88a01a2dd37bb"
 metafile = true
@@ -1909,6 +1914,11 @@ hash = "d9a854dc615bafee94247c2ad9e9d794f291c37cd03b61b9323222ad4a4a96e5"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "48657db6031c875c4ec2a64100e4181f1e6d01ba5997abe4af507618ace854d1"
+metafile = true
+
+[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "c324a6791dbb090123f20d2d870e2beaa0d15df69ac3596b19422f3bedff7869"
 metafile = true
@@ -1921,6 +1931,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "96d642fa14009e812ab9c4a8799d5c79045d27c8ab0bce701053f5630d8a6522"
 metafile = true
 
 [[files]]
@@ -2079,6 +2094,11 @@ hash = "112697884921624f676d57f530054ab128a6a416f4226cac4ed2586d17477069"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "fc5f6ed8b94d805cc915c961b75afb8dbf8bd04cd7d0e2efaa1c58e6a2085aef"
+metafile = true
+
+[[files]]
 file = "mods/culllessleaves-reforged.pw.toml"
 hash = "ee989fabe369fc66922db6679e5aaa35dd76329e63a869b848f1594fe1fc4293"
 metafile = true
@@ -2141,6 +2161,11 @@ metafile = true
 [[files]]
 file = "mods/domestication-innovation.pw.toml"
 hash = "119876b8e10ab75446efdb1eec68f13851e04454c889cba40a54e9b9a2cf613b"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "cfd9296e421ad30d61be4194da7fd29487181b474d28e854e2d49de259f27bd9"
 metafile = true
 
 [[files]]
@@ -2219,6 +2244,11 @@ hash = "513160f663842a09b92a156d56279b8215305fa4c8ca1f4ed1e82b21f3fd3247"
 metafile = true
 
 [[files]]
+file = "mods/ender-mail.pw.toml"
+hash = "609878e1044573d9684bf21df288ccdb44f9f7be78bd1a375c87df5fe5abd5fa"
+metafile = true
+
+[[files]]
 file = "mods/enderchests.pw.toml"
 hash = "b6c652fc338c1240b5715f84c251063c04d05bbeb9df36238d4937a20047a7fb"
 metafile = true
@@ -2259,6 +2289,11 @@ hash = "4a1440dbaf4e209501152ab6cd969d7b565617f79a0ef069e2d3ebcbbe3de57d"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "92f0a1d2b221021d2c0ab36d5c3e293f01a3a938b13d82bf82b997968f85faf4"
+metafile = true
+
+[[files]]
 file = "mods/extrastorage.pw.toml"
 hash = "97513b37a73b67a83f0f6fe6a6ff7330dceadca7f87405e262e9476e6b3b39ab"
 metafile = true
@@ -2266,6 +2301,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8189165b2426b999ed9621cb79aacab2635f3220fac15716a6f43084a0eb0986"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite.pw.toml"
+hash = "51436656f2fbac1996b8b0db1313674727e70dd14ed8e102a4ea8905c82b4860"
 metafile = true
 
 [[files]]
@@ -2321,6 +2361,11 @@ metafile = true
 [[files]]
 file = "mods/finally-farmable-dyes.pw.toml"
 hash = "dd098aa53a277aaf2ed084cb9b518eafb3e4ffb6b8cabb2d9c07c91687d93c05"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "72dc477328b0263a8d61f1a2d7032b8b3730aa4de3a365cc3e69ed68cbf7234e"
 metafile = true
 
 [[files]]
@@ -2486,6 +2531,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "52afe64a215ec7a20a2424de639020369e5d25fad69ede02a700edde08dd81db"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "52e48ec6907c9fba38819304325362bf532ceb904a838b75c29530480f11bc81"
 metafile = true
 
 [[files]]
@@ -2714,6 +2764,11 @@ hash = "000aabd54b24f928786fecd1137e1743d5051e7a81d33c9faa37c1123ea9114c"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "89032b1a50d49407a905ae0af9f65e5248357a7c19cf454a9a0f8ed6478ac365"
+metafile = true
+
+[[files]]
 file = "mods/mob-catcher-fabric.pw.toml"
 hash = "39be5fa478cbb82f159ea35fd289dc6cc8e57c62ba0d503c21b5b6f24798e73f"
 metafile = true
@@ -2876,6 +2931,11 @@ metafile = true
 [[files]]
 file = "mods/raided.pw.toml"
 hash = "2a7ce4a1d99ab2071477e45410b077f7199b0fe87b8f0874c57bddf775fe1ce1"
+metafile = true
+
+[[files]]
+file = "mods/reeves-furniture.pw.toml"
+hash = "a67e13b2bf7974d31ce2a3caeef67090fe0b000ab636b4f3a06a8d89b06dba30"
 metafile = true
 
 [[files]]

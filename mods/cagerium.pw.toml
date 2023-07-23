@@ -1,0 +1,13 @@
+name = "Cagerium (Compact Mob Farms)"
+filename = "cagerium-1.19.2-1.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "214cb858579d91fd6f5f6d4a3eb43d6bcccbf7b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4517775
+project-id = 709608
